@@ -1,2 +1,4 @@
 # Historical-Stones-Detection
-How to Train a deep learning model to detect objects in real time 
+OBJECT DETECTION is about locating an object and assigning it information that defines what that object represents.
+During this project I detected historical stones with Punic inscriptions(The Carthaginian language).
+
