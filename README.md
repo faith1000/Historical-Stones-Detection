@@ -12,5 +12,5 @@ The programming language python, The framework Tensorflow(for CPU) on linux OS, 
 ![github2](https://user-images.githubusercontent.com/41388712/47964537-d2da1500-e03b-11e8-8d75-62bb04f3ad33.png)
 ![github5](https://user-images.githubusercontent.com/41388712/47964544-f43b0100-e03b-11e8-896a-1af0753e70cf.png)
 ## A video that shows how well the model works
-![demo](https://user-images.githubusercontent.com/41388712/47964929-b391b680-e040-11e8-8388-ef411a7ea213.GIF)
+https://www.youtube.com/watch?v=cPdAVP2qMHU&feature=youtu.be 
 
