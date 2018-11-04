@@ -2,6 +2,8 @@
 ## What is Object Detection
 OBJECT DETECTION is about locating an object and assigning it information that defines what that object represents.
 During this project I detected historical stones with Punic inscriptions(The Carthaginian language).
+## Used technics
+The programming language python, The framework Tensorflow(for CPU) on linux OS, A pre-trained deep learning model published by google.  
 ## Some-Detected-Images 
 ![github 1](https://user-images.githubusercontent.com/41388712/47964511-87c00200-e03b-11e8-8753-f0e391ac2cf8.png)
 ![github4](https://user-images.githubusercontent.com/41388712/47964520-9c9c9580-e03b-11e8-97e1-a32df633846a.png)
